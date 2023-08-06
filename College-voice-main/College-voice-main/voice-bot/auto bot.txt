@@ -1,0 +1,46 @@
+     {"intents" :[
+                             {"tag" : hii" ,
+                                            " patterns" : ["have a nice day" ,H1" ],
+                               " responces" :[" hello" ,"Hey" , "What can i do for you?", "How may I help you?"]
+                               } ,
+                               {"tag" : " goodbye",
+                               " patterns" : [" see you " , " Thankyou " ,
+                                " responces " : ["Don't say goodbye " ," Stay safe and healthy" ," Everyday make your day nice with a smile"]
+
+                                } ,
+                                { " tag"  : "Help" ,
+                                 " patterns" : [" Hey can you  help me" , " Can you help me out " , " Urgent help is needed" , " I want ypour help"] ,
+                                   "  rescponces" :["Yes sure why not i'll help you out" , " What's  your problem ?  , " On need to worry" , "I'm here for you to help you?"]
+                                } ,
+
+                                {" tag":  " Articles" ,
+                                " patterns" : [" Tell me about JIS UNIVERSITY ?" ],
+                                " responces" : [ "JIS University is a private university located near Agarpara" , "West Bengal, India[2] It was established in 2014 under JIS University Act, 2014"                                   , JIS University is a multi-disciplinary, unitary & non-affiliating university, offering courses in engineering, technology, sciences, humanities, law, pharmacy and                                              management studies.  "]
+                                  } ,
+                                 {" tag" :["Reviews: " ],
+                                 " patterns" :["Placement Experience ?"]
+                                   " responces" : "[Placement occurs on the basis of your performance in the exams taken by the company and also the selection is done by" , " GD and                                                                  sometimes  open to all campaign drives are observed" ," Above 80% of people got a place and the average is 4 to 6 LPA but in the time of Covid placement                                                                                                                             drive company decrease their package. I am going for masters after getting the result.  "]
+                                   } ,
+                                  { " tag" :["Timing "] ,
+                                   " patterns" : ["What is the time to visit  JIS UNIVERSITY", " Can you tell me the visiting hours timing ."  ]
+                                     " responces" :"[Yes,  you can visit our campus Monday to Saturday from 9:00 am to 6:30 pm & Sunday from 10:00 am to 2:00 pm", "]
+                                   } ,
+                                    {"tag":["Present/Permanent Address"],
+                                   " patterns" : [" How to visit JIS University?","What is the address of JIS University? "  , "Tell me the location of JIS University","Tell me the address of JIS                                                                                             University?]"
+                                   " responces": ["You can visit our campus at Agarpara Campus, 81, Nilgunj Road, Agarpara, Kolkata-700109. "]
+                                  }, 
+                                  {"tag":[ "Abstract"],
+                                 " patterns" : "[ Abstract should be a single paragraph and should follow the style of structured abstracts, but without headings " ] ,
+                                   " responces" : [ "The purpose of the study; basic procedures " ," main  findings its novelty; discussions and the principal conclusions."]
+                                } ,
+                                {"tag" :" Introduction",
+                                  " patterns " : [" I want to  know  about JIS UNIVERSITY ", " Can you help me no about JIS UNIVERSITY ,"] ,
+                                  " responces" : "[ JIS University has an objective to provide instructions, teaching, training and research in various branches and specialised " , " Fields of                                                             Science,   Engineering & Technology, Pharmacy, Management, Law, Social Sciences and Education. Besides the traditional undergraduate and                                                                                                  postgraduate courses, there are integrated B.SC. ]
+                                 } ,
+                                  { "tag" :["Material and Methods"] ,
+                                   " patterns " : " [ You should be described with sufficient detail to allow others to replicate and build on published results"] ,
+                                   " responces" : ["New or modified methods may be described in detail " , " The statistical method and the level of significance chosen shall be clearly stated" ] ,
+                                 } ,
+                                 { " tag" : ["EMAIL" ] ,
+                                   " patterrns ": ["How to visit JIS University?","What is the address of JIS University?" , "Tell me the location o,Tell me the address of JIS   ] /                                                                                                                             University"],
+                                 " respoces" : [You can visit our campus at Agarpara Campus, 81, Nilgunj Road, Agarpara, Kolkata-700109"]

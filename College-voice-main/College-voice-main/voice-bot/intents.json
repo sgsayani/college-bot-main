@@ -1,0 +1,78 @@
+{"intents":[
+    {"tag":"greetings",
+    "patterns":["Hey","Hello","Hi","Good Day"],
+    "responses":["Hello","Hey","How can i help you?","What can i do for you?"]
+    },
+    {"tag":"goodbye",
+    "patterns":["See you","Thank you"],
+    "responses":["Bye Bye","Your most welcome","Thank you"]
+    },
+    {"tag":"Help",
+    "patterns":["I need your help","Can you help me?","I want your help","Help is needed"],
+    "responses":["Yes sure i will help you","What is your problem?","Don't worry i will help you","Tell me how can i help you"]
+    },
+    {"tag":"About",
+    "patterns":["Tell me about JIS University","Tell me something about JIS University","What do you know about JIS University?","What you know about JIS University?","Tell me everything about JIS University","I want to know everything about JIS University"],
+    "responses":["To know about JIS University, Please do visit our official website www.jisuniversity.ac.in"]
+    },
+    {"tag":"Admission",
+    "patterns":["How can i get admission in JIS University?","I want to get admission to JIS University","How do i apply for admission in JIS University?","How to apply for admission to JIS University?","I want to apply for admission in JIS University","How can I prepare for the admission?","What are the possible ways to apply in JIS University?"],
+    "responses":["You can directly visit our website www.jisuniversity.ac.in or call +91 33 2563 6677 to know everything in detail"]
+    },
+    {"tag":"Timing",
+    "patterns":["What is the right time to visit JIS University?","Can you tell me the timing to visit JIS University","What is the availability time of JIS University?"],
+    "responses":["You can visit our campus Monday to Saturday from 9:00 am to 6:30 pm & Sunday from 10:00 am to 2:00 pm"]
+    },
+    {"tag":"Address",
+    "patterns":["How to visit JIS University?","What is the address of JIS University?","Tell me the location of JIS University","Tell me the address of JIS University"],
+    "responses":["You can visit our campus at Agarpara Campus, 81, Nilgunj Road, Agarpara, Kolkata-700109"]
+    },
+    {"tag":"Email",
+    "patterns":["I want to send an email to JIS University","How can i send an email to JIS University?","Tell me the email address of JIS University","What is the email address of JIS University?"],
+    "responses":["You can send us an email to info@jisuniversity.ac.in or for admission purposes in admissions@jisuniversity.ac.in"]
+    },
+    {"tag":"Courses",
+    "patterns":["What are the courses available is JIS University?","Tell me about the courses available at JIS University","Tell me all the courses available at JIS University"],
+    "responses":["You can complete your BCA,MCA,BTECH,MTECH,BPHARM,BBA,LLB,Biosciences,Hotel management, and all the courses available in our University"]
+    },
+    {"tag":"Cost",
+    "patterns":["How much it will cost to complete BCA?","How much it will cost to complete MCA?","How much it will cost to complete BTECH?","How much it will cost to complete MTECH?","How much it will cost to complete BPHARM?","How much it will cost to complete BBA?","How much it will cost to complete LLB?","How much it will cost to complete Biosciences?","How much it will cost to complete Hotel management?","What is the expense to complete BCA?","What is the expense to complete MCA?","What is the expense to complete BTECH?","What is the expense to complete MTECH?","What is the expense to complete BPHARM?","What is the expense to complete BBA?","What is the expense to complete LLB?","What is the expense to complete Biosciences?","What is the espense to complete Hotel management?"],
+    "responses":["Please visit our website www.jisuniversity.ac.in or call +91 33 2563 6677 to know about it in detail"]
+    },
+    {"tag":"Training Partners",
+    "patterns":["Tell me about the training partners?","What are the training partners available in JIS University?","I want to know about the training partners"],
+    "Responses":["The training partners available in our JIS University are HDFC Bank,Flipkart,Paytm,OLA,Sony,Swiggy, and much more"]
+    },
+    {"tag":"Placement Partners",
+    "patterns":["Tell me about the placement partners?","Tell me about the placement facilities","What are the placement partners available in JIS University?","I want to know about the placement partners"],
+    "responses":["The placement partners available in our JIS University are HDFC Bank,Flipkart,Paytm,OLA,Sony,Swiggy, and many more reputed companies"]
+    },
+    {"tag":"Criteria",
+    "patterns":["What are the criteria for admission in JIS University?","What are the JIS University's admission requirements?","Tell me the criteria for getting admission for JIS University","Tell me the JIS University's admission requirements"],
+    "responses":["To know about admission criteria, visit our www.jisuniversity.ac.in/eligibility-criteria.php or call +91 33 2563 6677"]
+    },
+    {"tag":"Website",
+    "patterns":["What is the official website of JIS University?","Tell me the official website of JIS University","What is the website of JIS University?","Tell me the website of JIS University"],
+    "responses":["Our official website is www.jisuniversity.ac.in"]
+    },
+    {"tag":"Campus",
+    "patterns":["Tell me about the JIS University's campus","I want to know about the JIS University's campus"],
+    "responses":["To know about JIS University campus, please visit our official website www.jisuniversity.ac.in"]
+    },
+    {"tag":"Hostel",
+    "patterns":["Does JIS University have any kind of hostel facilities?","Tell me about JIS University's hostel facilities","Does JIS University offers any kind of hostel facilities?","JIS University's hostel fees","Tell me the JIS University's hostel fees","What is the JIS University's hostel fees?"],
+    "responses":["You can visit our website www.jisuniversity.ac.in/hostel.php or call +91 33 2563 6677 to know"]
+    },
+    {"tag":"Extracurricular activity",
+    "patterns":["Does JIS University have any kind of Extracurricular activity?","Tell me about JIS University's Extracurricular activities","Does JIS University offers any kind of Extracurricular activity?","What are the JIS University's Extracurricular activities"],
+    "responses":["To know please visit our website www.jisuniversity.ac.in/extra-curricular.php or call +91 33 2563 6677 to know"]
+    },
+    {"tag":"Scholarship",
+    "patterns":["Does JIS University offers any kind of Scholarship facilities?","Tell me about JIS University scholarship facilities","Does JIS University have any kind of scholarship facilities?","I want to know about JIS University's scholarship facilities","Tell me about JIS University's scholarship","I want to know about JIS University's scholarship"],
+    "responses":["To know about JIS University's scholarship facilities, please visit our website www.jisuniversity.ac.in/scholarship.php or call +91 33 2563 6677"]
+    },
+    {"tag":"JET",
+    "patterns":["Tell me about JIS University's entrance exam","I want to know about JIS University's entrance exam","Tell me about JIS University's entrance test","I want to know about JIS University's entrance test","Tell me about JET exam","I want to know about JET exam","Tell me about JET test","I want to know about JET test","What do you know about JET exam?","What do you knwo about JET test?","How do i get prepared for JET exam?","I want go get prepared for JET exam","How do i get prepared for JET test?","I want to get prepared for JET test?","What is the procedure of JET exam?","How to apply for JET exam?","How to apply JET test?","How to apply JET?"],
+    "responses":["To know or apply for JET Exam, please visit our website www.jisuniversity.ac.in/jet.php or call +91 33 2563 6677"]
+    }
+    ]}
